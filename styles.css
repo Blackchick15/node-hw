@@ -1,0 +1,12 @@
+.div{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.but{
+  width: 70px;
+  height: 70px;
+  border-radius: 20px;
+  color: brown;
+
+}
